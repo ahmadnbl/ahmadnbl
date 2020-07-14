@@ -4,9 +4,8 @@
   <img src="https://i.postimg.cc/nLFQsSgD/Unknown.png" width="200"/>
 </p>
 <p>
-<strong>THis page</strong>
-  
-## This page is taking too long to load.
+
+# This page is taking too long to load.
 
 </p>
 <p>
