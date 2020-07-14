@@ -5,16 +5,17 @@
 </p>
 <p>
 
-# This page is taking too long to load.
+### This page is taking too long to load.
 
 </p>
 <p>
-  Sorry about that. Please try refreshing and contact us if the problem persists.
+  
+#### Sorry about that. Please try refreshing and contact us if the problem persists.
 </p>
 <img src="https://i.postimg.cc/GtnBRc0v/301.gif" width="32"/>
 </div>
 
-### Hi there 👋  {style=text-align:center}
+
 <!--
 **ahmadnbl/ahmadnbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
