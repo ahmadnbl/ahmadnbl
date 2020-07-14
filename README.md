@@ -1,9 +1,17 @@
-### Hi there 👋
 
 <div align="center">
-<img src="https://i.postimg.cc/nLFQsSgD/Unknown.png"/>
+<p>
+  <img src="https://i.postimg.cc/nLFQsSgD/Unknown.png" width="200"/>
+</p>
+<p>
+  <strong>This page is taking too long to load.</strong>
+</p>
+<p>
+  Sorry about that. Please try refreshing and contact us if the problem persists.
+</p>
 </div>
 
+### Hi there 👋
 <!--
 **ahmadnbl/ahmadnbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
