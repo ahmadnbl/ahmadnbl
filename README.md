@@ -12,7 +12,7 @@
 <img src="https://i.postimg.cc/GtnBRc0v/301.gif" width="32"/>
 </div>
 
-### Hi there 👋
+### Hi there 👋  {style=text-align:center}
 <!--
 **ahmadnbl/ahmadnbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
