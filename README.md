@@ -92,7 +92,7 @@
 <br/>
 <br/>
 
-<div align="center">
+<div align="right">
 <sub><sup>HA!</sup></sub>
 </div>
 
