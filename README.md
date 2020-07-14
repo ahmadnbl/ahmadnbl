@@ -5,7 +5,7 @@
 </p>
 <p>
 
-### This page is taking too long to load.
+## This page is taking too long to load.
 
 </p>
 <p>
