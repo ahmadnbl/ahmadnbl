@@ -3,8 +3,11 @@
 <p>
   <img src="https://i.postimg.cc/nLFQsSgD/Unknown.png" width="200"/>
 </p>
-<p style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol; color: rgba(0, 0, 0, 0.5);">
+<p>
   <strong>This page is taking too long to load.</strong>
+
+## Hello
+
 </p>
 <p>
   Sorry about that. Please try refreshing and contact us if the problem persists.
