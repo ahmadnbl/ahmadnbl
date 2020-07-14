@@ -92,7 +92,9 @@
 <br/>
 <br/>
 
-<sub align="center"><sup>HA!</sup></sub>
+<div align="center">
+<sub><sup>HA!</sup></sub>
+</div>
 
 <!--
 **ahmadnbl/ahmadnbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
