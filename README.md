@@ -1,14 +1,15 @@
 
 <div align="center">
 <p>
-  <img src="https://i.postimg.cc/nLFQsSgD/Unknown.png" width="200"/>
+<!--   <img src="https://i.postimg.cc/nLFQsSgD/Unknown.png" width="200"/> -->
+  <img src="https://user-images.githubusercontent.com/16456963/139592871-aa396756-232a-45bf-bf76-136ccded177e.gif" width="100"/>
 </p>
 
 ### This page is taking too long to load.
 
 ###### Sorry about that. Please try refreshing and contact us if the problem persists.
 
-<img src="https://i.postimg.cc/GtnBRc0v/301.gif" width="32"/>
+<!-- <img src="https://i.postimg.cc/GtnBRc0v/301.gif" width="32"/> -->
 </div>
 <br/>
 <br/>
